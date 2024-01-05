@@ -5,20 +5,18 @@
 
 <br>
 <br>
-<br>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E3651D?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Javascript-FFF78A?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp <br>
-<img src="https://img.shields.io/badge/Figma-C683D7?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/codepen-181717?style=flat-square&logo=codepen&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/CSS3-3085C3?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Javascript-FFB000?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/jQuery-3876BF?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp <br>
+<img src="https://img.shields.io/badge/Figma-white?style=flat-square&logo=Figma&logoColor=F875AA"/></a>&nbsp 
+<img src="https://img.shields.io/badge/github-white?style=flat-square&logo=github&logoColor=1F1717"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/codepen-181717?style=flat-square&logo=codepen&logoColor=white"/></a>&nbsp 
 </p>
 
-<br>
 <br>
 <br>
 <h3 align="center"> 🔸My Github Stats🔸</h3>
