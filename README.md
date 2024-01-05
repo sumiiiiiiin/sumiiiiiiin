@@ -11,8 +11,8 @@
 <img src="https://img.shields.io/badge/CSS3-3085C3?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Javascript-FFB000?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/jQuery-3876BF?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp <br>
-<img src="https://img.shields.io/badge/Figma-FBF9F1?style=flat-square&logo=Figma&logoColor=F875AA"/></a>&nbsp 
-<img src="https://img.shields.io/badge/github-FBF9F1?style=flat-square&logo=github&logoColor=1F1717"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Figma-F5F7F8?style=flat-square&logo=Figma&logoColor=F875AA"/></a>&nbsp 
+<img src="https://img.shields.io/badge/github-F5F7F8?style=flat-square&logo=github&logoColor=1F1717"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/codepen-181717?style=flat-square&logo=codepen&logoColor=white"/></a>&nbsp 
 </p>
