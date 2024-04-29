@@ -1,5 +1,5 @@
 ![enter image description here](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Welcome%20Sumin%27s%20Github&fontSize=50)
-<h3 align="center">Hi there! 👋</h3>
+<h3 align="center">Hi, I'm @sumiiiiiiin</h3>
 <p align="center">안녕하세요, 반갑습니다!</p>
 <p align="center">신입 웹퍼블리셔 이수민입니다😄</p>
 
@@ -21,6 +21,9 @@
 <br>
 <h3 align="center"> 🔸My Github Stats🔸</h3>
 <div align="center">
+
+(https://github-readme-stats.vercel.app/api/top-langs/?username=sumiiiiiiin&show_icons=true&hide_border=true&icon_color=004386&layout=compact&theme=radical)](https://github.com/sumiiiiiiin)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumiiiiiiin&layout=compact)
 </div>
