@@ -20,7 +20,7 @@
 
 <br>
 <br>
-<h3 align="center"> 📌My Github Stats📌</h3>
+<h3 align="center"> 📌My status📌</h3>
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
