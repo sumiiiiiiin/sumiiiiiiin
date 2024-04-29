@@ -1,4 +1,10 @@
-![enter image description here](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Welcome%20Sumin%27s%20Github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?
+type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?
+font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
+&center=false&vCenter=false&multiline=true&repeat=true&width=1000
+&height=100&lines=Welcome+to+sumin's+GitHub!)](https://git.io/typing-svg)
+
 <h3 align="center">Hi, I'm @sumiiiiiiin</h3>
 <p align="center">안녕하세요, 반갑습니다!</p>
 <p align="center">신입 웹퍼블리셔 이수민입니다😄</p>
