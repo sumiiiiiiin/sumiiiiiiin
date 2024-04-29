@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Welcome to Sumin's Github&font=Redressed&size=40)](https://git.io/typing-svg)
-
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&text=Welcome to Sumin's Github&fontSize=50)
 
 <h3 align="center">Hi, I'm @sumiiiiiiin</h3>
 <p align="center">안녕하세요, 반갑습니다!</p>
