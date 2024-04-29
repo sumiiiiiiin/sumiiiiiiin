@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&text=Welcome to Sumin's Github&fontSize=50)
+![enter image description here](https://capsule-render.vercel.app/api?type=Soft&height=100&color=gradient&text=Welcome%20Sumin%27s%20Github&fontSize=50)
 
 <h3 align="center">Hi, I'm @sumiiiiiiin</h3>
 <p align="center">안녕하세요, 반갑습니다!</p>
