@@ -1,11 +1,4 @@
-![enter image description here](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Welcome%20Sumin%27s%20Github&fontSize=50)
-
-![header](https://capsule-render.vercel.app/api?
-type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?
-font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
-&center=false&vCenter=false&multiline=true&repeat=true&width=1000
-&height=100&lines=Welcome+to+bi-sz's+GitHub!👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Welcome to Sumin's Github&font=Redressed&size=40)](https://git.io/typing-svg)
 
 
 <h3 align="center">Hi, I'm @sumiiiiiiin</h3>
