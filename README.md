@@ -1,4 +1,4 @@
-![enter image description here](https://capsule-render.vercel.app/api?type=Soft&height=100&color=gradient&text=Welcome%20to Sumin%27s%20Github&fontSize=40&fontColor=ffffff)
+![enter image description here](https://capsule-render.vercel.app/api?type=Soft&height=100&color=gradient&text=Welcome to%20Sumin%27s%20Github&fontSize=40&fontColor=ffffff)
 
 <h3 align="center">Hi, I'm @sumiiiiiiin</h3>
 <p align="center">안녕하세요, 반갑습니다!</p>
